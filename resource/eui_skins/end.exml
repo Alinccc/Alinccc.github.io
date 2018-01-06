@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="endSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1562233d1a7" ></w:Config>
+	<e:Image source="main_button_png" y="35" height="74" horizontalCenter="0"/>
+	<e:Rect width="400" height="200" x="0" y="63" fillColor="0xEEEEEE"/>
+	<e:Image source="planB_png" y="46" width="123" height="26" fillMode="scale" horizontalCenter="0"/>
+	<e:Label text="there is something wrong!!" x="29" y="126" width="360" textColor="0x000000" height="90"/>
+	<e:Image id="return" source="main_button_png" x="38" y="205" width="122" height="42"/>
+	<e:Image id="playAgain" source="main_button_png" x="244" y="205" width="122" height="42"/>
+	<e:Label text="do it again" x="257" y="214" textColor="0x000000" size="21"/>
+	<e:Label text="give it up" x="60" y="215" textColor="0x000000" size="21"/>
+</e:Skin>

@@ -1,0 +1,12 @@
+{
+    "map":[0,1,10,11,20,21,30,31,40,41,50,51,60,61,70,71,80],
+    "step":0,
+    "life":5,
+    "element":[0,1,2,3,4],
+    "enemyType":0,
+    "color":1,
+    "enemyNum":15,
+    "startNum":7,
+    "hp":2,
+    "levelbgimg":"background"
+}

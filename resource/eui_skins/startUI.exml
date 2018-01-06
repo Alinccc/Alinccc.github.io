@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="startUISkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="156217a913a" ></w:Config>
+	<e:Image source="bird_png" y="14" horizontalCenter="0.5"/>
+	<e:Image source="safety_png" y="441" horizontalCenter="-4"/>
+	<e:Group x="146" y="529">
+		<e:Image id="start" source="main_button_png" y="0" x="0"/>
+		<e:Image id="startText" source="start_png" y="16" x="49"/>
+	</e:Group>
+	<e:Group x="146" y="623">
+		<e:Image id="tips" source="main_button_png" y="0" x="0"/>
+		<e:Image id="tipsText" source="tips_png" y="12" x="60"/>
+	</e:Group>
+</e:Skin>

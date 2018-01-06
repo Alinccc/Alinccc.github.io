@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="gameSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="156017e5f33" ></w:Config>
+	<e:Image width="481" height="88" x="0" y="0" source="toptable_png" fillMode="clip"/>
+	<e:Image width="415" height="88" x="0" y="712" source="toptable_png" fillMode="clip"/>
+	<e:Image x="181" y="12" width="119" height="119" source="yuan_png" fillMode="scale"/>
+	<e:Image source="table1_png" x="10" y="80" width="145" height="86"/>
+	<e:Image source="table1_png" x="325" y="80" width="145" height="86"/>
+	<e:Image source="scroe_png" x="31" y="38" width="105" height="30" fillMode="scale"/>
+	<e:Image source="wave_png" x="369" y="38" width="61" height="29" fillMode="scale"/>
+	<e:Image source="menu_png" x="416" y="712" width="64" height="88"/>
+	<e:Label id="scroe" text="9999" x="32" y="124" textColor="0x000000" width="102" textAlign="center" bold="true"/>
+</e:Skin>
